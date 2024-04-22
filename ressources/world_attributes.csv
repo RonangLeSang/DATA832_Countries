@@ -1,0 +1,179 @@
+pop_est,continent,name,iso_a3,gdp_md_est
+889953.0,Oceania,Fiji,FJI,5496
+58005463.0,Africa,Tanzania,TZA,63177
+603253.0,Africa,W. Sahara,ESH,907
+37589262.0,North America,Canada,CAN,1736425
+328239523.0,North America,United States of America,USA,21433226
+18513930.0,Asia,Kazakhstan,KAZ,181665
+33580650.0,Asia,Uzbekistan,UZB,57921
+8776109.0,Oceania,Papua New Guinea,PNG,24829
+270625568.0,Asia,Indonesia,IDN,1119190
+44938712.0,South America,Argentina,ARG,445445
+18952038.0,South America,Chile,CHL,282318
+86790567.0,Africa,Dem. Rep. Congo,COD,50400
+10192317.3,Africa,Somalia,SOM,4719
+52573973.0,Africa,Kenya,KEN,95503
+42813238.0,Africa,Sudan,SDN,30513
+15946876.0,Africa,Chad,TCD,11314
+11263077.0,North America,Haiti,HTI,14332
+10738958.0,North America,Dominican Rep.,DOM,88941
+144373535.0,Europe,Russia,RUS,1699876
+389482.0,North America,Bahamas,BHS,13578
+3398.0,South America,Falkland Is.,FLK,282
+5347896.0,Europe,Norway,NOR,403336
+56225.0,North America,Greenland,GRL,3051
+140.0,Seven seas (open ocean),Fr. S. Antarctic Lands,ATF,16
+1293119.0,Asia,Timor-Leste,TLS,2017
+58558270.0,Africa,South Africa,ZAF,351431
+2125268.0,Africa,Lesotho,LSO,2376
+127575529.0,North America,Mexico,MEX,1268870
+3461734.0,South America,Uruguay,URY,56045
+211049527.0,South America,Brazil,BRA,1839758
+11513100.0,South America,Bolivia,BOL,40895
+32510453.0,South America,Peru,PER,226848
+50339443.0,South America,Colombia,COL,323615
+4246439.0,North America,Panama,PAN,66800
+5047561.0,North America,Costa Rica,CRI,61801
+6545502.0,North America,Nicaragua,NIC,12520
+9746117.0,North America,Honduras,HND,25095
+6453553.0,North America,El Salvador,SLV,27022
+16604026.0,North America,Guatemala,GTM,76710
+390353.0,North America,Belize,BLZ,1879
+28515829.0,South America,Venezuela,VEN,482359
+782766.0,South America,Guyana,GUY,5173
+581363.0,South America,Suriname,SUR,3697
+67059887.0,Europe,France,FRA,2715518
+17373662.0,South America,Ecuador,ECU,107435
+3193694.0,North America,Puerto Rico,PRI,104988
+2948279.0,North America,Jamaica,JAM,16458
+11333483.0,North America,Cuba,CUB,100023
+14645468.0,Africa,Zimbabwe,ZWE,21440
+2303697.0,Africa,Botswana,BWA,18340
+2494530.0,Africa,Namibia,NAM,12366
+16296364.0,Africa,Senegal,SEN,23578
+19658031.0,Africa,Mali,MLI,17279
+4525696.0,Africa,Mauritania,MRT,7600
+11801151.0,Africa,Benin,BEN,14390
+23310715.0,Africa,Niger,NER,12911
+200963599.0,Africa,Nigeria,NGA,448120
+25876380.0,Africa,Cameroon,CMR,39007
+8082366.0,Africa,Togo,TGO,5490
+30417856.0,Africa,Ghana,GHA,66983
+25716544.0,Africa,Côte d'Ivoire,CIV,58539
+12771246.0,Africa,Guinea,GIN,12296
+1920922.0,Africa,Guinea-Bissau,GNB,1339
+4937374.0,Africa,Liberia,LBR,3070
+7813215.0,Africa,Sierra Leone,SLE,4121
+20321378.0,Africa,Burkina Faso,BFA,15990
+4745185.0,Africa,Central African Rep.,CAF,2220
+5380508.0,Africa,Congo,COG,12267
+2172579.0,Africa,Gabon,GAB,16874
+1355986.0,Africa,Eq. Guinea,GNQ,11026
+17861030.0,Africa,Zambia,ZMB,23309
+18628747.0,Africa,Malawi,MWI,7666
+30366036.0,Africa,Mozambique,MOZ,15291
+1148130.0,Africa,eSwatini,SWZ,4471
+31825295.0,Africa,Angola,AGO,88815
+11530580.0,Africa,Burundi,BDI,3012
+9053300.0,Asia,Israel,ISR,394652
+6855713.0,Asia,Lebanon,LBN,51991
+26969307.0,Africa,Madagascar,MDG,14114
+4685306.0,Asia,Palestine,PSE,16276
+2347706.0,Africa,Gambia,GMB,1826
+11694719.0,Africa,Tunisia,TUN,38796
+43053054.0,Africa,Algeria,DZA,171091
+10101694.0,Asia,Jordan,JOR,44502
+9770529.0,Asia,United Arab Emirates,ARE,421142
+2832067.0,Asia,Qatar,QAT,175837
+4207083.0,Asia,Kuwait,KWT,134628
+39309783.0,Asia,Iraq,IRQ,234094
+4974986.0,Asia,Oman,OMN,76331
+299882.0,Oceania,Vanuatu,VUT,934
+16486542.0,Asia,Cambodia,KHM,27089
+69625582.0,Asia,Thailand,THA,543548
+7169455.0,Asia,Laos,LAO,18173
+54045420.0,Asia,Myanmar,MMR,76085
+96462106.0,Asia,Vietnam,VNM,261921
+25666161.0,Asia,North Korea,PRK,40000
+51709098.0,Asia,South Korea,KOR,1646739
+3225167.0,Asia,Mongolia,MNG,13996
+1366417754.0,Asia,India,IND,2868929
+163046161.0,Asia,Bangladesh,BGD,302571
+763092.0,Asia,Bhutan,BTN,2530
+28608710.0,Asia,Nepal,NPL,30641
+216565318.0,Asia,Pakistan,PAK,278221
+38041754.0,Asia,Afghanistan,AFG,19291
+9321018.0,Asia,Tajikistan,TJK,8116
+6456900.0,Asia,Kyrgyzstan,KGZ,8454
+5942089.0,Asia,Turkmenistan,TKM,40761
+82913906.0,Asia,Iran,IRN,453996
+17070135.0,Asia,Syria,SYR,98830
+2957731.0,Asia,Armenia,ARM,13672
+10285453.0,Europe,Sweden,SWE,530883
+9466856.0,Europe,Belarus,BLR,63080
+44385155.0,Europe,Ukraine,UKR,153781
+37970874.0,Europe,Poland,POL,595858
+8877067.0,Europe,Austria,AUT,445075
+9769949.0,Europe,Hungary,HUN,163469
+2657637.0,Europe,Moldova,MDA,11968
+19356544.0,Europe,Romania,ROU,250077
+2786844.0,Europe,Lithuania,LTU,54627
+1912789.0,Europe,Latvia,LVA,34102
+1326590.0,Europe,Estonia,EST,31471
+83132799.0,Europe,Germany,DEU,3861123
+6975761.0,Europe,Bulgaria,BGR,68558
+10716322.0,Europe,Greece,GRC,209852
+83429615.0,Asia,Turkey,TUR,761425
+2854191.0,Europe,Albania,ALB,15279
+4067500.0,Europe,Croatia,HRV,60752
+8574832.0,Europe,Switzerland,CHE,703082
+619896.0,Europe,Luxembourg,LUX,71104
+11484055.0,Europe,Belgium,BEL,533097
+17332850.0,Europe,Netherlands,NLD,907050
+10269417.0,Europe,Portugal,PRT,238785
+47076781.0,Europe,Spain,ESP,1393490
+4941444.0,Europe,Ireland,IRL,388698
+287800.0,Oceania,New Caledonia,NCL,10770
+669823.0,Oceania,Solomon Is.,SLB,1589
+4917000.0,Oceania,New Zealand,NZL,206928
+25364307.0,Oceania,Australia,AUS,1396567
+21803000.0,Asia,Sri Lanka,LKA,84008
+1397715000.0,Asia,China,CHN,14342903
+23568378.0,Asia,Taiwan,TWN,1127000
+60297396.0,Europe,Italy,ITA,2003576
+5818553.0,Europe,Denmark,DNK,350104
+66834405.0,Europe,United Kingdom,GBR,2829108
+361313.0,Europe,Iceland,ISL,24188
+10023318.0,Asia,Azerbaijan,AZE,48047
+3720382.0,Asia,Georgia,GEO,17477
+108116615.0,Asia,Philippines,PHL,376795
+31949777.0,Asia,Malaysia,MYS,364681
+433285.0,Asia,Brunei,BRN,13469
+2087946.0,Europe,Slovenia,SVN,54174
+5520314.0,Europe,Finland,FIN,269296
+5454073.0,Europe,Slovakia,SVK,105079
+10669709.0,Europe,Czechia,CZE,250680
+6081196.0,Africa,Eritrea,ERI,2065
+126264931.0,Asia,Japan,JPN,5081769
+7044636.0,South America,Paraguay,PRY,38145
+29161922.0,Asia,Yemen,YEM,22581
+34268528.0,Asia,Saudi Arabia,SAU,792966
+34268528.0,Asia,Saudi Arabia,SAU,792966
+4490.0,Antarctica,Antarctica,ATA,898
+326000.0,Asia,N. Cyprus,CYN,3600
+1198575.0,Asia,Cyprus,CYP,24948
+36471769.0,Africa,Morocco,MAR,119700
+100388073.0,Africa,Egypt,EGY,303092
+6777452.0,Africa,Libya,LBY,52091
+112078730.0,Africa,Ethiopia,ETH,95912
+973560.0,Africa,Djibouti,DJI,3324
+5096159.0,Africa,Somaliland,SOL,17836
+44269594.0,Africa,Uganda,UGA,35165
+12626950.0,Africa,Rwanda,RWA,10354
+3301000.0,Europe,Bosnia and Herz.,BIH,20164
+2083459.0,Europe,North Macedonia,MKD,12547
+6944975.0,Europe,Serbia,SRB,51475
+622137.0,Europe,Montenegro,MNE,5542
+1794248.0,Europe,Kosovo,-99,7926
+1394973.0,North America,Trinidad and Tobago,TTO,24269
+11062113.0,Africa,S. Sudan,SSD,11998
