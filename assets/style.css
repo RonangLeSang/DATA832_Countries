@@ -1,0 +1,41 @@
+.my-input{
+    text-align: center;
+    border: 1px solid rgba(0, 0, 255, 0.49);
+    border-radius: 5px;
+    width: 30%;
+    padding: 8px
+}
+
+.my-dropdown .Select-control {
+    border: 1px solid rgba(0, 0, 255, 0.49);
+}
+
+.my-dropdown .Select-control .Select-value{
+    position: relative;
+    display: inline-block;
+}
+
+.my-dropdown .Select-control .Select-multi-value-wrapper{
+    display: flex;
+}
+
+.my-dropdown {
+    text-align: center;
+    margin: 10px;
+}
+
+.my-slider {
+    width: 50%;
+    margin: 10px;
+}
+.my-slider .rc-slider-track {
+    background-color: #0000FF7E;
+}
+
+.rc-slider-handle, .rc-slider-dot-active{
+    border: solid 2px #0000FF7E
+}
+
+.rc-slider-mark-text{
+    color: #0000FF7E;
+}
